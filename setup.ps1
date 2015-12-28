@@ -1,5 +1,5 @@
 # Copy and paste in IE
-# http://boxstarter.org/package/url?https://gist.githubusercontent.com/iacoware/ea2b3bf33731f90ddc7d/raw/833b77c65afed47bed38e500d83ec94be75ad83c/gistfile1.txt
+# http://boxstarter.org/package/url?https://raw.githubusercontent.com/iacoware/win-devbox/master/setup.ps1
 
 $Boxstarter.RebootOk=$true      # Allow reboots?
 $Boxstarter.NoPassword=$true    # Is this a machine with no login password?
