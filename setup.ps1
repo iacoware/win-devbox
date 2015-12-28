@@ -10,6 +10,7 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowFileEx
 #Enable-RemoteDesktop
 
 # Dev Tools
+cinst conemu
 #cinst powershell
 #cinst GitHub
 cinst git --params="/GitAndUnixToolsOnPath"

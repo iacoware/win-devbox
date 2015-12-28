@@ -1,0 +1,3 @@
+Other things to install/remeber (not everything is automated)
+
+- choco must run in an admin console
