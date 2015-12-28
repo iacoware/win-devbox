@@ -1,0 +1,19 @@
+[credential]
+	helper = manager
+[user]
+	name = Massimo Iacolare
+	email = info@massimoiacolare.it
+[alias]
+	l = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cgreen\\ [%cn]" --decorate --graph
+	ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cgreen\\ [%cn]" --decorate --numstat
+	ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+	s = status -s
+	branches = branch -a
+	remotes = remote -v
+	cm = commit -m
+	aa = add -A
+	ca = "!git add -A" && "git commit -av"
+	pr = pull --rebase
+	sc = diff --name-only --diff-filter=U
+[push]
+	default = simple
