@@ -1,3 +1,12 @@
 Other things to install/remeber (not everything is automated)
 
 - choco must run in an admin console
+- install testdriven.net
+
+- configure conemu to start inside a predefined shell
+
+- If it's running inside VMWare (as I usually do)
+	* Optimize for perf
+	* Change when the computer go to sleep to 'never'
+	* To obtain CMD+Click VMware -> Preferences -> Mouse & Keyboard -> Button 3 checked
+	* Use Autohotkey script to tame windows key bindings (see support)

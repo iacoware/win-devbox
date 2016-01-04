@@ -29,6 +29,7 @@ cinst install sublimetext3.packagecontrol
 
 #choco install fiddler4
 choco install 7zip
+cinst autohotkey
 
 # Productivity
 choco install GoogleChrome
